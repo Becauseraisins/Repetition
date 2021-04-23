@@ -1,0 +1,16 @@
+C:\Users\matth\Class_work\Intro_programming\repetition2\bin\Debug\net5.0\repetition2.exe
+C:\Users\matth\Class_work\Intro_programming\repetition2\bin\Debug\net5.0\repetition2.deps.json
+C:\Users\matth\Class_work\Intro_programming\repetition2\bin\Debug\net5.0\repetition2.runtimeconfig.json
+C:\Users\matth\Class_work\Intro_programming\repetition2\bin\Debug\net5.0\repetition2.runtimeconfig.dev.json
+C:\Users\matth\Class_work\Intro_programming\repetition2\bin\Debug\net5.0\repetition2.dll
+C:\Users\matth\Class_work\Intro_programming\repetition2\bin\Debug\net5.0\ref\repetition2.dll
+C:\Users\matth\Class_work\Intro_programming\repetition2\bin\Debug\net5.0\repetition2.pdb
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\repetition2.csprojAssemblyReference.cache
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\repetition2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\repetition2.AssemblyInfoInputs.cache
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\repetition2.AssemblyInfo.cs
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\repetition2.csproj.CoreCompileInputs.cache
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\repetition2.dll
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\ref\repetition2.dll
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\repetition2.pdb
+C:\Users\matth\Class_work\Intro_programming\repetition2\obj\Debug\net5.0\repetition2.genruntimeconfig.cache
