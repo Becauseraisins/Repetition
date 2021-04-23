@@ -1,0 +1,16 @@
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\NestedRepetition.csprojAssemblyReference.cache
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\NestedRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\NestedRepetition.AssemblyInfoInputs.cache
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\NestedRepetition.AssemblyInfo.cs
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\NestedRepetition.csproj.CoreCompileInputs.cache
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\bin\Debug\net5.0\NestedRepetition.exe
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\bin\Debug\net5.0\NestedRepetition.deps.json
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\bin\Debug\net5.0\NestedRepetition.runtimeconfig.json
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\bin\Debug\net5.0\NestedRepetition.runtimeconfig.dev.json
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\bin\Debug\net5.0\NestedRepetition.dll
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\bin\Debug\net5.0\ref\NestedRepetition.dll
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\bin\Debug\net5.0\NestedRepetition.pdb
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\NestedRepetition.dll
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\ref\NestedRepetition.dll
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\NestedRepetition.pdb
+C:\Users\matth\Class_work\Intro_programming\NestedRepetition\obj\Debug\net5.0\NestedRepetition.genruntimeconfig.cache
